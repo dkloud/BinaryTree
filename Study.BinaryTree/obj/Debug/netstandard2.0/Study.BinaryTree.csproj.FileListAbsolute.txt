@@ -1,0 +1,9 @@
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\bin\Debug\netstandard2.0\Study.BinaryTree.deps.json
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\bin\Debug\netstandard2.0\Study.BinaryTree.dll
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\bin\Debug\netstandard2.0\Study.BinaryTree.pdb
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\obj\Debug\netstandard2.0\Study.BinaryTree.csprojAssemblyReference.cache
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\obj\Debug\netstandard2.0\Study.BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\obj\Debug\netstandard2.0\Study.BinaryTree.AssemblyInfoInputs.cache
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\obj\Debug\netstandard2.0\Study.BinaryTree.AssemblyInfo.cs
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\obj\Debug\netstandard2.0\Study.BinaryTree.dll
+C:\Users\Exia\source\repos\Study.BinaryTree\Study.BinaryTree\obj\Debug\netstandard2.0\Study.BinaryTree.pdb

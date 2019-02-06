@@ -1,0 +1,9 @@
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\bin\Debug\netstandard2.0\StudentTests.deps.json
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\bin\Debug\netstandard2.0\StudentTests.dll
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\bin\Debug\netstandard2.0\StudentTests.pdb
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\obj\Debug\netstandard2.0\StudentTests.csprojAssemblyReference.cache
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\obj\Debug\netstandard2.0\StudentTests.csproj.CoreCompileInputs.cache
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\obj\Debug\netstandard2.0\StudentTests.AssemblyInfoInputs.cache
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\obj\Debug\netstandard2.0\StudentTests.AssemblyInfo.cs
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\obj\Debug\netstandard2.0\StudentTests.dll
+C:\Users\Exia\source\repos\Study.BinaryTree\StudentTests\obj\Debug\netstandard2.0\StudentTests.pdb
